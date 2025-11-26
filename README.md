@@ -30,7 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amna-attaria0816&show_icons=true&locale=en" alt="amna-attaria0816" /></p>
 
-<p><img ali<img width="1280" height="640" alt="37c6ee80-caef-11ea-8dd5-58fe488fddb8" src="https://github.com/user-attachments/assets/f41d9995-faa1-4d88-a325-5c708d98c7c3" />
-gn="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amna-attaria0816&" alt="amna-attaria0816" /></p>
-
 
